@@ -1,7 +1,7 @@
 # server-stats.sh
 
-https://github.com/blcsilva/ServerPerfomanceStats
-
+[https://github.com/blcsilva/ServerPerfomanceStats
+](https://roadmap.sh/projects/server-stats)
 ## Descrição
 
 Script em Bash para exibir estatísticas básicas de desempenho de um servidor Linux.
